@@ -1,4 +1,4 @@
-def greeting_1(name)
+def introduction(name)
   name = "Josh"
-  puts "Hi, my name is #{name}"
+  puts "Hi, my name is #{name}."
 end 
