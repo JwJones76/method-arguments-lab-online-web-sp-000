@@ -4,7 +4,7 @@ def introduction(name)
 end
 
 
-def introduction_with_language(name)(language)
+def introduction_with_language(name, language)
   name = "Dan"
   language = "Ember.js"
   puts "Hi, my name is #{name} and i am learning to program in #{language}."
